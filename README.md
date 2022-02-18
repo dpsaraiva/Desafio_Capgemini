@@ -8,7 +8,7 @@ Os desafios encontram-se na pasta src no pacote desafios com os nomes Questão1,
 
 Este projeto foi desenvolvido com a linguagem Java dentro do Eclipse IDE, Jdk 11 e pode ser rodado tanto no console da IDE como no Git Bash, Visual Stuidio Code e Intellij  usando os import e o código descrito nos desafios.
 
-Para rodar o código no Git Bash, primeiro intale o Git na sua máquina, você pode clonar o repositório: [https://github.com/dpsaraiva/Desafio-Capgemini.git.]
+Para rodar o código no Git Bash, primeiro intale o Git na sua máquina, você pode clonar o repositório: [https://github.com/dpsaraiva/Desafio_Capgemini.git.]
 
 Baixar jdk 11 ou superior , idea eclipse ou Intellij , e compilar o código main em cada pasta dos desafios.
 
